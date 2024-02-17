@@ -51,7 +51,9 @@ input{
 input::placeholder{
     color: #fff;
 }
-
+img{
+    margin-left:40%;
+}
 .btn {
     font-size: 40px;
     font-weight: 500;
